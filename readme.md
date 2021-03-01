@@ -1,2 +1,3 @@
-#trabalhando CSS com Sass e aprimorando conceitos de CSS avançado.
-Será desenvolvido 3 projetos fictícios usado tecnicas avançadas de css, flexbox e Grid Layout bem como uso do pré processador Sass juntamente com arquitetura CSS BEM seguindo os padrões DRY (dont repeat yourself).
+<h1>trabalhando CSS com Sass e aprimorando conceitos de CSS avançado.</h1>
+<p align="center">Será desenvolvido 3 projetos fictícios usado tecnicas avançadas de css, flexbox e Grid Layout bem como uso do pré processador Sass juntamente com arquitetura CSS BEM seguindo os padrões DRY (dont repeat yourself).</p>
+<h4 align=""center>Projeto em construção...</h4>
