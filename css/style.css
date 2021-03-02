@@ -65,7 +65,8 @@ body {
 
   animation-name: moveInLeft;
   animation-duration: 1s;
-  animation-delay: 0.5s;
+  animation-timing-function: ease-out;
+  /*animation-delay: 0.5s;*/
 }
 
 .heading-primary-sub {
